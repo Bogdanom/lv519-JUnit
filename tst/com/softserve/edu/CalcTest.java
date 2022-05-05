@@ -11,7 +11,7 @@ public class CalcTest {
 
 	 @BeforeClass
 	    public static void setUpBeforeClass() throws Exception {
-	        System.out.println("@BeforeClass setUpBeforeClass()");
+	        System.out.println("@BeforeClass setUpBeforeClass( )");
 	        // throw new RuntimeException("Ha-Ha-Ha");
 	    }
 
